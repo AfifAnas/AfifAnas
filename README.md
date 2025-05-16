@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Unity game development
-- 😄 Find Me at: [Linked In](https://www.linkedin.com/in/afif-anas-632738362/)
+- 😄 Find Me at: [LinkedIn](https://www.linkedin.com/in/afif-anas-632738362/)
